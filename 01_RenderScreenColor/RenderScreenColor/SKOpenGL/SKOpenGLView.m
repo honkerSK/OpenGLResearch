@@ -8,7 +8,7 @@
 
 /*
 将view的颜色渲染成橘色
-   1> 将HYOpenGLView的layer改成CAEAGLLyaer
+   1> 将SKOpenGLView的layer改成CAEAGLLyaer
    2> 创建EAGLContext(上下文, 状态机)
 */
 #import "SKOpenGLView.h"
